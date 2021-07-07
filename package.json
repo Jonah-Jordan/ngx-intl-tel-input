@@ -13,7 +13,7 @@
 		"build_lib": "ng build ngx-intl-tel-input --prod",
 		"copy-license": "cp ./LICENSE ./dist/ngx-intl-tel-input",
 		"copy-readme": "cp ./README.md ./dist/ngx-intl-tel-input",
-		"copy-files": "npm run copy-license && npm run copy-readme",
+		"copy-files": "",
 		"npm_pack": "npm run copy-files && cd dist/ngx-intl-tel-input && npm pack",
 		"package": "npm run build_lib && npm run npm_pack",
 		"postinstall": "ngcc"

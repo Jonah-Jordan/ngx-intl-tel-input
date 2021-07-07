@@ -1,6 +1,6 @@
 {
-	"name": "ngx-intl-tel-input",
-	"version": "2.6.0",
+	"name": "@dgpls-pmp/ngx-intl-tel-input",
+	"version": "1.2.0",
 	"peerDependencies": {
 		"@angular/common": "8.x - 9.x",
 		"@angular/core": "8.x - 9.x",
@@ -12,10 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/webcat12345/ngx-intl-tel-input"
-	},
-	"author": {
-		"name": "webcat12345",
-		"email": "webcat91@gmail.com"
 	},
 	"keywords": [
 		"angular",
